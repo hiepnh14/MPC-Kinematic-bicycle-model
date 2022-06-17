@@ -1,0 +1,12 @@
+sphinx
+ipykernel
+nbsphinx
+pygments
+docutils
+sphinx-copybutton
+graphviz
+casadi
+numpy==1.19.0
+matplotlib
+recommonmark
+scipy
